@@ -1,3 +1,7 @@
+body {
+ margin: 0vw; 
+}
+
 #antelope {
   background-image: url("https://drscdn.500px.org/photo/135000587/q%3D80_m%3D2000/v2?sig=50b0ce210fc2dfff3b4175f3ff1bae5c042d676a8a5b307d1adcf147487a5fd8");
   background-size: cover;
@@ -40,7 +44,7 @@
   width: 40vw;
   left: 50%;
   margin-left: -10vw;
-  margin-top: 5vw;
+  margin-top: 7vw;
   border-radius: 5vw;
   overflow: auto;
   box-shadow: 0vw 1.2vw 2.5vw .5vw rgba(0,0,0,1);
